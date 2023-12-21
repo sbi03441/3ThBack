@@ -17,6 +17,7 @@ public class CorsConfig {
         config.addAllowedOrigin("http://localhost:5173");
         config.addAllowedOrigin("http://localhost:8080");
         config.addAllowedOrigin("http://localhost:9090");
+        config.addAllowedOrigin("https://moin-moin.vercel.app/");
 //        config.addAllowedOriginPattern("*");
         config.addAllowedOriginPattern("*");
         config.addAllowedOriginPattern("http://localhost:*");
