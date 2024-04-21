@@ -25,7 +25,7 @@
 <br />
 <br />
 
-<img src="https://sour-process-b08.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F812354cb-4304-4b1b-b07d-f3c2e18143f4%2F587fc5f4-5bc9-47f4-bba9-5f6c439fdf5c%2F%25EC%258B%259C%25EC%258A%25A4%25ED%2585%259C%25EC%2595%2584%25ED%2582%25A4%25ED%2585%258D%25EC%25B2%2598.jpg?table=block&id=3b86af03-b4cb-4e4b-99fd-ccc06ed828dc&spaceId=812354cb-4304-4b1b-b07d-f3c2e18143f4&width=2000&userId=&cache=v2"/>
+<img src="https://file.notion.so/f/f/733d2ec5-944e-43ee-8a68-d090b5cd1a1a/41c30302-d608-4f0b-b811-643b59053180/Untitled.png?id=36507322-6ba1-43ce-9653-3a69d3eb8cc2&table=block&spaceId=733d2ec5-944e-43ee-8a68-d090b5cd1a1a&expirationTimestamp=1713772800000&signature=LIWSAQoBqsBW-sirlYgwg9iYwqm00tZIMkAKwxdGOS8&downloadName=Untitled.png"/>
 
 # ERD
 
