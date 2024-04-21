@@ -29,7 +29,7 @@
 
 # ERD
 
-<img src="https://file.notion.so/f/f/733d2ec5-944e-43ee-8a68-d090b5cd1a1a/41c30302-d608-4f0b-b811-643b59053180/Untitled.png?id=36507322-6ba1-43ce-9653-3a69d3eb8cc2&table=block&spaceId=733d2ec5-944e-43ee-8a68-d090b5cd1a1a&expirationTimestamp=1713772800000&signature=LIWSAQoBqsBW-sirlYgwg9iYwqm00tZIMkAKwxdGOS8&downloadName=Untitled.png"/>
+![erd](https://github.com/sbi03441/issue/assets/115928654/6dc32784-e058-4daa-8b9d-a3f4705238b5)
 <br />
 <br />
 
